@@ -1,0 +1,11 @@
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\bin\Debug\EbookTools.exe
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\bin\Debug\EbookTools.pdb
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.MainForm.resources
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.Properties.Resources.resources
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.csproj.GenerateResource.Cache
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.exe
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.pdb
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\bin\Debug\HtmlAgilityPack.dll
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\bin\Debug\HtmlAgilityPack.pdb
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\bin\Debug\HtmlAgilityPack.xml
+H:\Green_Soft\workspace_adProject\ebookdemo\src\EbookTools\EbookTools\EbookTools\obj\x86\Debug\EbookTools.csprojResolveAssemblyReference.cache

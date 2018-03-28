@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">独自上场</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab_host_dynamic_add_tab">TabHostDynamicAddTabActivity</string>
+    <string name="title_activity_slide_tabs3">SlideTabs3Activity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <!-- UI Tips -->
+    <string name="Version">Version: 1.0</string>
+    <string name="AppStyle">App Style</string>
+    <string name="FontSize">Font Size</string>
+    <string name="CopyRight">CopyRight 2014-2018</string>
+    <string name="Disclaimer">Disclaimer: all content from the network, not for business.</string>
+    <string name="UnknownInfo">unknown info.</string>
+
+</resources>
